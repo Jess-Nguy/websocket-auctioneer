@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-    <router-link to="/">Auctioneer</router-link> |
+    <router-link to="/auctioneer">Auctioneer</router-link> |
     <router-link to="/bidder">Bidder</router-link>
   </div>
   <router-view/>
