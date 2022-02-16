@@ -5,6 +5,7 @@ import Bidder from "../views/Bidder.vue";
 const routes = [
   {
     path: "/",
+    alias: "/auctioneer",
     name: "Auctioneer",
     component: Auctioneer,
   },

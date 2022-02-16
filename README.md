@@ -10,7 +10,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 
-Inside `websocket` directory:
+Inside `webui` directory:
 
 ```
 npm run serve
@@ -19,7 +19,7 @@ npm run serve
 Inside `server` directory:
 
 ```
-npm run dev
+nodemon server.js
 ```
 
 ### Compiles and minifies for production
